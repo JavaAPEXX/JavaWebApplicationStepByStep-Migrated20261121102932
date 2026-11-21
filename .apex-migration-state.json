@@ -1,0 +1,8 @@
+{
+  "job_id": "job_a35e1c0c6e6d",
+  "sourceRepoUrl": "https://github.com/in28minutes/JavaWebApplicationStepByStep",
+  "targetJavaVersion": "21",
+  "status": "MIGRATION_CHECKPOINT",
+  "overallMigrationStatus": "COMPLETED",
+  "migration_date": ""
+}
